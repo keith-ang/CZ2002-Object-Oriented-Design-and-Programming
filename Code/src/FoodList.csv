@@ -1,0 +1,10 @@
+AlaCarte,McSpicy,Spicy Burger,5,MAIN_COURSE
+AlaCarte,Fries,Fries,2.4,SIDES
+AlaCarte,Coke,Drink,1.5,DRINKS
+AlaCarte,DblChz,Double Cheeseburger,2.5,MAIN_COURSE
+AlaCarte,CupCorn,Cup Corn,1.2,SIDES
+AlaCarte,Sprite,Drink,1.5,DRINKS
+AlaCarte,CokeNS,Drink,1.6,DRINKS
+Package,McSpicyMeal,Meal with McSpicy,7,1-2-3,SET_PACKAGE,
+Package,DblChzMealLowCal,Low Calorie Double Cheeseburger Meal,5,4-5-7,SET_PACKAGE,
+Package,McSpicyMealLowCal,Low Calorie McSpicy Meal,7.5,1-5-7,SET_PACKAGE,
